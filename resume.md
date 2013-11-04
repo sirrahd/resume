@@ -80,6 +80,7 @@ Hobbies
 	-	Development and design lead for TeacherMaps.com
 	-	Web administrator for FamilyPromiseNSB.org
 	-	Blogging on drew-harris.com
+
 *	Other interests
 	-	Technology, foreign languages and cultures, hiking, running,
 		biking, cooking
