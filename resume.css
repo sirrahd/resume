@@ -58,3 +58,7 @@ li {
 ul li ul li {
     margin: .5em;
 }
+
+.obfuscate {
+	display: none;
+}

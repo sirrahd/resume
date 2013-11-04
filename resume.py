@@ -120,7 +120,7 @@ def tex(lines, contact_lines, *args):
 @processor.register
 def html(lines, contact_lines, *args):
     untex = ['LaTeX']
-
+    
     for word in untex:
         # yuck
         replace = lambda l: l.replace(r"\%s" % word, word)
@@ -140,6 +140,8 @@ def html(lines, contact_lines, *args):
                  ("<p>" + "</p><p>".join(contact_lines) + "</p>"))
     lines.insert(1, "<div>")
     lines.append("</div>")
+    
+    lines.append("<div><p><a href=\"resume.pdf\">View as PDF</a></p></div>")
 
     return "".join(lines)
 

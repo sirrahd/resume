@@ -1,71 +1,85 @@
-Markdown Resumé
+Andrew Harris
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
+me@drew-harris.com
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*	**Microsoft** (Cambridge, MA)
 
-    Junior Resumé Maker, 2006 - 2007
+	Program Manager II, *SkyDrive Pro*, 2013-current
+	
+	-	Driving improvements in the SkyDrive Pro service infrastructure
+	-	Leading development teams building telemetry infrastructure to
+		better understand where and how customers run into difficulty
+		with the service
+	-	Coaching for Foundry intern program
+	-	Managing internal blogs and support programs for SkyDrive Pro
+	
+	Program Manager, *SharePoint*, 2010-2012
+	-	Lead development of SharePoint newsfeed, social infrastructure, 
+		and social APIs
+	-	Defined new user interfaces, restructured large
+		parts of SharePoint architecture to support our social
+		scenarios
+	-	Drove the design of our social APIs to support mobile and 3rd-
+		party applications. Pushed the organization towards more RESTful
+		APIs
+	-	Technology Adoption Program lead
+	-	Spoke at various conferences, including TechReady and SharePoint
+		Conference
+		
+	Program Manager, *SharePoint Workspace*, 2009
+	-	Drove initiatives to improve the stability and scale of
+		SharePoint Workspace prior to the 2010 release.
+	-	Managed and wrote for a public-facing blog for SharePoint
+		Workspace
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+*	**Applied Research Lab** (University Park, PA)
 
-*   **\LaTeX\ + pdflatex**
+	Research Assistant, 2008-2009
 
-    Senior Resumé Maker, 2008 - 2010
+	-	Created algorithms and simulations for for image
+		processing and artificial intelligence for autonomous underwater 
+		vehicles
+	
+*	**Penn State University** (University Park, PA)
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+	Research Assistant, 2006-2008
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+	-	Built software and hardware systems to automate the collection
+		and analysis of data for experiments in local jamming of
+		granular media (playing with sand) in Dr. Peter Schiffer's
+		Magnetic Materials and Granular Media Group.
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*	**Pennsylvania State University** (University Park, PA)
 
-    B.S. in Submodules, May 2012
-
-
+	B.S. in Physics, 2005-2009
+	-	Honors in Electrical Engineering
+	-	Minors in Mathematics and Japanese language
+	
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*	I love solving problems. I'm an experienced program,
+	product, and project manager, software developer, leader, and
+	designer.
 
-*   Familiar with GNU Make, bash
+*	I am passionate about technology. Though I don't often use
+	these skills in my day job, I'm experinced with Python, Ruby, C#,
+	C++, Octave, Ruby on Rails, Django, git, Linux,
+	and server administration, to name a few.
 
-
+Hobbies
+-------
+*	Side projects
+	-	Development and design lead for TeacherMaps.com
+	-	Web administrator for FamilyPromiseNSB.org
+	-	Blogging on drew-harris.com
+*	Other interests
+	-	Technology, foreign languages and cultures, hiking, running,
+		biking, cooking
