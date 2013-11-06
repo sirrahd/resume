@@ -72,14 +72,13 @@ Skills
 *	I am passionate about technology. Though I don't often use
 	these skills in my day job, I'm experinced with Python, Ruby, C#,
 	C++, Octave, Ruby on Rails, Django, git, Linux,
-	and server administration, to name a few.
+	and server administration, and I love learning new things.
 
 Hobbies
 -------
 *	Side projects
 	-	Development and design lead for TeacherMaps.com
 	-	Web administrator for FamilyPromiseNSB.org
-	-	Blogging on drew-harris.com
 
 *	Other interests
 	-	Technology, foreign languages and cultures, hiking, running,
