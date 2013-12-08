@@ -65,8 +65,8 @@ Education
 Skills
 ------
 *	**Solving problems**
-	is my passion. I seek out opportunities to identify and solve
-	problems, from physics to project management.
+	is my passion. I seek out opportunities to use my analytical skills
+	in all aspects of life.
 
 *	**Diverse background**
 	in software engineering, management, physics, and languages helps
