@@ -65,7 +65,7 @@ Education
 Skills
 ------
 *	**Solving problems**
-	is what drives mea. I seek out opportunities to identify and solve
+	is what drives me. I seek out opportunities to identify and solve
 	problems, from physics to project management.
 
 *	**Diverse background**
