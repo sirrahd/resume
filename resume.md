@@ -61,7 +61,7 @@ Education
 	B.S. in Physics, 2005-2009
 	-	Honors in Electrical Engineering
 	-	Minors in Mathematics and Japanese language
-	
+
 Skills
 ------
 *	**Solving problems**
@@ -72,7 +72,7 @@ Skills
 	in software engineering, management, physics, and languages helps
 	me communicate with people in a wide variety of fields and gives
 	me unique perspective I can contribute to teams immediately.
-	
+
 *	**Agility**
 	has allowed me to work in a myriad of fields. I can learn and adapt
 	quickly to a new discipline, environment, or project and generate
