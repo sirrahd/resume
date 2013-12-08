@@ -14,8 +14,8 @@ Work Experience
 	-	Leading development teams building telemetry infrastructure to
 		better understand where and how customers run into difficulty
 		with the service
+	-	Managing blogs and support programs for SkyDrive Pro
 	-	Coaching for Foundry intern program
-	-	Managing internal blogs and support programs for SkyDrive Pro
 	
 	Program Manager, *SharePoint*, 2010-2012
 	-	Lead development of SharePoint newsfeed, social infrastructure, 
