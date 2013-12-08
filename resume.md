@@ -64,22 +64,30 @@ Education
 	
 Skills
 ------
+*	**Solving problems**
+	is what drives me. I seek out opportunities to identify and solve
+	problems, from physics to project management.
 
-*	I love solving problems. I'm an experienced program,
-	product, and project manager, software developer, leader, and
-	designer.
+*	**Diverse background**
+	in software engineering, management, physics, and languages helps
+	me communicate with people in a wide variety of fields and gives
+	me unique perspective I can contribute to teams immediately.
+	
+*	**Agility**
+	has allowed me to work in a myriad of fields. I can learn and adapt
+	quickly to a new discipline, environment, or project and generate
+	results quickly.
 
-*	I am passionate about technology. Though I don't often use
-	these skills in my day job, I'm experinced with Python, Ruby, C#,
-	C++, Octave, Ruby on Rails, Django, git, Linux,
-	and server administration, and I love learning new things.
+*	**Development experience**
+	in languages and platforms including 
+	Python, Ruby, C#, C++, Octave, Ruby on Rails, and Django.
 
-Hobbies
+Personal
 -------
-*	Side projects
-	-	Development and design lead for TeacherMaps.com
+*	Projects
+	-	Co-founder of TeacherMaps.com
 	-	Web administrator for FamilyPromiseNSB.org
 
-*	Other interests
+*	Hobbies
 	-	Technology, foreign languages and cultures, hiking, running,
 		biking, cooking
