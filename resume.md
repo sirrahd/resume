@@ -89,5 +89,5 @@ Personal
 	-	Web administrator for FamilyPromiseNSB.org
 
 *	Hobbies
-	-	Technology, foreign languages and cultures, hiking, running,
+	-	Technology, languages and cultures, hiking, running,
 		biking, cooking
