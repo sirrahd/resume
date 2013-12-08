@@ -142,6 +142,7 @@ def html(lines, contact_lines, *args):
     lines.append("</div>")
     
     lines.append("<div><p><a href=\"resume.pdf\">View as PDF</a></p></div>")
+    lines.append("<div><p><a href=\"resume.txt\">View as text</a></p></div>")
 
     return "".join(lines)
 
