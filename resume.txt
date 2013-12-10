@@ -23,7 +23,7 @@ Work Experience
 		design langauge.
 	-	Pushed for the design of RESTful APIs in SharePoint to support
 		3rd-party and mobile applications.
-	-	Assisted CTOs of Fortune 500 companies interested in upgrading
+	-	Advised CTOs of Fortune 500 companies interested in upgrading
 		to Microsoft software as a Technology Adoption Program lead.
 	-	Spoke at conferences in front of hundreds of participants,
 		including TechReady and SharePoint Conference.
