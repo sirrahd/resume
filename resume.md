@@ -8,14 +8,14 @@ Work Experience
 
 *	**Microsoft** (Cambridge, MA)
 
-	Program Manager II, *SkyDrive Pro*, 2013-current
+	Program Manager II, *SkyDrive Pro*, 2013-
 	-	Leading a team of over 10 engineers building telemetry
 		infrastructure for SkyDrive Pro service usage and stability.
 	-	Driving initiatives to reduce support costs and improve
 		diagnostic data collection from support calls.
 	-	Coaching intern teams for the Foundry program.
 	
-	Program Manager, *SharePoint*, 2010-2012
+	Program Manager, *SharePoint*, 2009-2012
 	-	Led a team of over 15 software engineers to develop the
 		SharePoint 2013/Office 365 newsfeed, social infrastructure, 
 		and social APIs.
@@ -27,11 +27,6 @@ Work Experience
 		to Microsoft software as a Technology Adoption Program lead.
 	-	Spoke at conferences in front of hundreds of participants,
 		including TechReady and SharePoint Conference.
-		
-	Program Manager, *SharePoint Workspace*, 2009
-	-	Managed SharePoint Workspace 2010 social media presence,
-		including our public blog, Twitter, and participating in
-		technology conferences.
 
 *	**Applied Research Lab** (University Park, PA)
 
