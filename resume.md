@@ -56,6 +56,7 @@ Education
 
 Personal
 -------
+
 *	Volunteering
 	-	Co-founder of TeacherMaps.com
 	-	Web administrator for FamilyPromiseNSB.org
