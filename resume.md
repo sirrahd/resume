@@ -9,16 +9,15 @@ Work Experience
 *	**Microsoft** (Cambridge, MA)
 
 	Program Manager II, *SkyDrive Pro*, 2013-
-	-	Leading a team of over 10 engineers building telemetry
-		infrastructure for SkyDrive Pro service usage and stability.
+	-	Leading efforts to improve telemetry
+		for SkyDrive Pro service usage and stability.
 	-	Driving initiatives to reduce support costs and improve
-		diagnostic data collection from support calls.
+		diagnostic data collection from support engagements.
 	-	Coaching intern teams for the Foundry program.
-	
+
 	Program Manager, *SharePoint*, 2009-2012
-	-	Led a team of over 15 software engineers to develop the
-		SharePoint 2013/Office 365 newsfeed, social infrastructure, 
-		and social APIs.
+	-	Designed and led core SharePoint 2013/Office 365 initiatives
+		including social newsfeeds, infrastructure, and APIs.
 	-	Worked with designers to define an entirely new SharePoint
 		design langauge.
 	-	Pushed for the design of RESTful APIs in SharePoint to support
