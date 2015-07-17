@@ -1,5 +1,5 @@
 Andrew Harris
-===============
+=============
 
 me@drew-harris.com
 
@@ -51,14 +51,14 @@ Work Experience
 Education
 ---------
 
-*	**Pennsylvania State University** (University Park, PA)
+*	**Penn State Schreyer Honors College** (University Park, PA)
 
 	B.S. in Physics, 2005-2009
 	-	Honors in Electrical Engineering
 	-	Minors in Mathematics and Japanese
 
 Other Activities
--------
+----------------
 
 *	Board of Directors, Evergreen Educational Society (2015-)
 *	Co-founder, FlagsForNepal.org (2015)
