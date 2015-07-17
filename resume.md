@@ -6,14 +6,18 @@ me@drew-harris.com
 Work Experience
 ---------------
 
-*	**Microsoft** (Cambridge, MA)
+*	**Microsoft** (Cambridge, MA and Osaka, JP)
 
-	Program Manager II, *SkyDrive Pro*, 2013-
-	-	Leading efforts to improve telemetry
+	Program Manager II, *Office Collaboration Experiences*, 2015-
+	-	Planning new collaboration features for cross-platform Office apps.
+
+	Program Manager II, *SkyDrive Pro*, 2013-2014
+	-	Managed development of OneDrive for Business Mac client.
+	-	Lead efforts to improve telemetry
 		for SkyDrive Pro service usage and stability.
-	-	Driving initiatives to reduce support costs and improve
+	-	Drove initiatives to reduce support costs and improve
 		diagnostic data collection from support engagements.
-	-	Coaching intern teams for the Foundry program.
+	-	Coached intern teams for the Foundry program.
 
 	Program Manager, *SharePoint*, 2009-2012
 	-	Designed and led core SharePoint 2013/Office 365 initiatives
@@ -51,17 +55,13 @@ Education
 
 	B.S. in Physics, 2005-2009
 	-	Honors in Electrical Engineering
-	-	Minors in Mathematics and Japanese language
+	-	Minors in Mathematics and Japanese
 
-Personal
+Other Activities
 -------
 
-*	Volunteering
-	-	Co-founder of TeacherMaps.com
-	-	Web administrator for FamilyPromiseNSB.org
+*	Board of Directors, Evergreen Educational Society (2015-)
+*	Co-founder, FlagsForNepal.org (2015)
+*	Co-founder, TeacherMaps.com (2012-2014)
+*	Web administrator, FamilyPromiseNSB.org (2011-)
 
-*	Hobbies
-	-	Technology, languages and cultures, hiking, running,
-		biking, cooking
-	-	Development experience in languages and platforms including
-		Python, Ruby, C#, C++, Octave, Ruby on Rails, and Django
