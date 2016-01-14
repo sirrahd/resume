@@ -60,9 +60,9 @@ Education
 Other Activities
 ----------------
 
-*   Lead developer, MoneyHabitudes.com redesign (est. delivery Q2 2016) (2015-)
-*   Board of Directors, Evergreen Educational Society (2015-)
+*   Engineering lead, MoneyHabitudes.com redesign (estimated delivery Q2 2016) (2015-)
+*   Board member, Finance and Compensation commitees chair, Evergreen Educational Society (2015-)
 *   Co-creator, FlagsForNepal.org (2015)
 *   Co-founder, TeacherMaps.com (2012-2014)
-*   Web administrator, FamilyPromiseNSB.org (2011-)
+*   IT Manager, Family Promise of North Shore Boston (2011-)
 
