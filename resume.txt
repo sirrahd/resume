@@ -1,52 +1,38 @@
 Andrew Harris
 =============
 
-me@drew-harris.com
+anharri@microsoft.com
 
 Work Experience
 ---------------
 
-*   **Microsoft** (Cambridge, MA and Osaka, Japan)
+*   **Microsoft** (Cambridge, MA)
 
     Program Manager II, *Office Collaboration Experiences*, 2015-
-    -   Building new collaboration features for cross-platform Office apps.
+    -   Building new collaboration features for cross-platform Office applications.
 
-    Program Manager II, *SkyDrive Pro*, 2013-2014
-    -   Managed development of OneDrive for Business Mac client.
-    -   Lead efforts to improve telemetry
-        for SkyDrive Pro service usage and stability.
-    -   Drove initiatives to reduce support costs and improve
-        diagnostic data collection from support engagements.
-    -   Coached intern teams for the Foundry program.
+    Program Manager II, *OneDrive for Business*, 2013-2014
+    -   Managed development of the OneDrive for Business Mac client beta.
+    -   Led the OneDrive for Business Mac Technology Adoption Program
+        (TAP), managing over 100 customer relationships.
+    -   Drove initiatives to improve the reliability of the OneDrive for
+        Business Windows client by improving client telemetry and establishing
+        processes to find and fix bugs collected through all sources.
+    -   Received RedZone award for significantly reducing the cost of supporting
+        the OneDrive for Business Windows sync client.
+    -   Coached intern teams for the New England Foundry internship program.
 
     Program Manager, *SharePoint*, 2009-2012
-    -   Designed and led core SharePoint 2013/Office 365 initiatives
-        including social newsfeeds, infrastructure, and APIs.
-    -   Worked with designers to define an entirely new SharePoint
-        design langauge.
+    -   Designed and led SharePoint 2013/Office 365 social initiatives
+        including newsfeeds and social APIs.
+    -   Worked with designers to define a new SharePoint
+        design language for SharePoint My Sites.
     -   Pushed for the design of RESTful APIs in SharePoint to support
         3rd-party and mobile applications.
     -   Advised CTOs of Fortune 500 companies interested in deploying
-        Microsoft software as a Technology Adoption Program lead.
+        Microsoft software as a TAP lead.
     -   Spoke at conferences in front of hundreds of participants,
         including TechReady and SharePoint Conference.
-
-*   **Applied Research Lab** (University Park, PA)
-
-    Research Assistant, 2008-2009
-
-    -   Developed algorithms and simulations for for image
-        processing and artificial intelligence for autonomous
-        underwater vehicles.
-
-*   **Penn State University** (University Park, PA)
-
-    Research Assistant, 2006-2008
-
-    -   Built software and hardware systems to automate the collection
-        and analysis of data for experiments in local jamming of
-        granular media (playing with sand) in the
-        Magnetic Materials and Granular Media Group.
 
 Education
 ---------
@@ -60,9 +46,13 @@ Education
 Other Activities
 ----------------
 
-*   Engineering lead, MoneyHabitudes.com redesign (estimated delivery Q2 2016) (2015-)
-*   Board member, Finance and Compensation commitees chair, Evergreen Educational Society (2015-)
-*   Co-creator, FlagsForNepal.org (2015)
-*   Co-founder, TeacherMaps.com (2012-2014)
-*   IT Manager, Family Promise of North Shore Boston (2011-)
-
+*   Board member and Finance and Compensation committee chair, Evergreen
+    Educational Society (2015-)
+*   Co-creator of flagsfornepal.org, a winner of Microsoft New England Citizen
+    Hacker hackathon (2015)
+*   Co-creator of TeacherMaps, a winner of the University of Colorado New Venture
+    Challenge (2013)
+*   IT Administrator, Family Promise North Shore Boston (2011-)
+*   Research Assistant, Unmanned Underwater Vehicles, Applied
+    Research Laboratory (2008-2009)
+*   Research Assistant, Penn State Magnetic Materials and Granular Media Group (2006-2008)
