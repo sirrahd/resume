@@ -1,7 +1,7 @@
 Andrew Harris
 =============
 
-anharri@microsoft.com
+me@drew-harris.com
 
 Work Experience
 ---------------
@@ -12,7 +12,7 @@ Work Experience
     -   Building new collaboration features for cross-platform Office applications.
 
     Program Manager II, *OneDrive for Business*, 2013-2014
-    -   Managed development of the OneDrive for Business Mac client beta.
+    -   Managed development of the OneDrive for Business Mac beta client.
     -   Led the OneDrive for Business Mac Technology Adoption Program
         (TAP), managing over 100 customer relationships.
     -   Drove initiatives to improve the reliability of the OneDrive for
@@ -25,7 +25,7 @@ Work Experience
     Program Manager, *SharePoint*, 2009-2012
     -   Designed and led SharePoint 2013/Office 365 social initiatives
         including newsfeeds and social APIs.
-    -   Worked with designers to define a new SharePoint
+    -   Worked with designers to define a new
         design language for SharePoint My Sites.
     -   Pushed for the design of RESTful APIs in SharePoint to support
         3rd-party and mobile applications.
@@ -48,7 +48,7 @@ Other Activities
 
 *   Board member and Finance and Compensation committee chair, Evergreen
     Educational Society (2015-)
-*   Co-creator of flagsfornepal.org, a winner of Microsoft New England Citizen
+*   Co-creator of flagsfornepal.org, a winner of the Microsoft NERD Citizen
     Hacker hackathon (2015)
 *   Co-creator of TeacherMaps, a winner of the University of Colorado New Venture
     Challenge (2013)
